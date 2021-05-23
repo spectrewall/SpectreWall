@@ -18,8 +18,8 @@
 
 <p align="left">
   <a target="_blank" href="https://www.instagram.com/wallace.spec">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wallace.spec" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
   <a target="_blank" href="https://www.linkedin.com/in/spectrewall/">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spectrewall/" alt="Linkedin"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 </p>
