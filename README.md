@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🎯 Skills: <strong>HTML, CSS, JavaScript and PHP (Laravel) .</strong>
+  🎯 Skills: <strong>HTML, CSS, JavaScript, JQuery and PHP (Laravel) .</strong>
 </p>
 
 <p align="left">
