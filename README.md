@@ -1,25 +1,31 @@
 <h3>Welcome to my profile 😎👌</h3>
 
 #
+<div align="center">
+  <a href="https://github.com/spectrewall">
+    <img src="https://github-readme-stats.vercel.app/api?username=spectrewall&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Card Star" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectrewall&hide=html&layout=compact&theme=dracula" alt="Card Star" height="180em"/>
+  </a>
+</div>
 
-<a href="https://github.com/spectrewall"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spectrewall&hide=html&layout=compact&theme=dracula" alt="Card Star" align="right" width="400px" min-width="300px"></a>
+<br>
 
-<p align="left">
-  My name is Wallace "SpectreWall" Carvalho, I'm 22 years old, studand of <strong> Computer Engineer </strong> in UFES "Universidade Federal do Espirito Santo". I love to code, so i started working at "ADAPTI - Soluções WEB" as <strong>Web Developer (FULL STACK)</strong> and <strong>Project Manager</strong>. Currently I develop websites in PHP using the framwork LARAVEL, but I can easily learn other programming languages, some other languages that I had some contact: C#, C++, C, Java and Python.
-</p>
+<div align="center">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+</div>
 
-<p align="left">
-  🎯 Skills: <strong>HTML, CSS, JavaScript, JQuery and PHP (Laravel) .</strong>
-</p>
+<br>
 
-<p align="left">
-  📩 Contact: ⤵️
-</p>
-
-<p align="left">
+<div align="center">
   <a href="https://www.instagram.com/wallace.spec" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
   <a href="https://www.linkedin.com/in/spectrewall/" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
-</p>
+</center>
