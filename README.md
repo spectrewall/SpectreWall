@@ -1,5 +1,4 @@
 <h3>Welcome to my profile 😎👌</h3>
-<p>Laravel repositories and some other are private as they are owned by <a href="https://github.com/adaptiOficial">Adapti</a>
 
 #
 <div align="center">
